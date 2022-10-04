@@ -9,5 +9,5 @@ if (x1 > x2)
 {max = x1;}
 else
 {max = x2;}
-if (x3>x2) max = x3;
+if (x3>max) max = x3;
 Console.WriteLine(max);
